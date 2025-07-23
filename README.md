@@ -29,7 +29,7 @@ El sitio combina una estética narrativa encantadora con navegación intuitiva, 
 
 ## 👤 Author
 **Anna Khilya**  
-📧 Contact: [[annkhi@techtherapy.org.ua](https://github.com/anytakhilya)]  
+📧 Contact: [annkhi@techtherapy.org.ua],[GitHub profile](https://github.com/anytakhilya)]  
 🌐 Website: [www.artexellent.org.ua](https://www.artexellent.org.ua) *(coming soon)*
 
 ---
